@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/golang/protobuf v1.3.2
-	github.com/focalsolution/micro-go-micro v1.16.0
+	github.com/focalsolution/micro-go-micro v1.18.1-focal
 	github.com/miekg/dns v1.1.22 // indirect
 	golang.org/x/crypto v0.0.0-20191108234033-bd318be0434a // indirect
 	golang.org/x/net v0.0.0-20191109021931-daa7c04131f5
